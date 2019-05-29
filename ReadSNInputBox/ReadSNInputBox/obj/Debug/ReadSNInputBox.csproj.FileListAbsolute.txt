@@ -1,0 +1,7 @@
+C:\Users\jomannin\source\repos\ReadSNInputBox\ReadSNInputBox\bin\Debug\ReadSNInputBox.exe.config
+C:\Users\jomannin\source\repos\ReadSNInputBox\ReadSNInputBox\bin\Debug\ReadSNInputBox.exe
+C:\Users\jomannin\source\repos\ReadSNInputBox\ReadSNInputBox\bin\Debug\ReadSNInputBox.pdb
+C:\Users\jomannin\source\repos\ReadSNInputBox\ReadSNInputBox\obj\Debug\ReadSNInputBox.csprojAssemblyReference.cache
+C:\Users\jomannin\source\repos\ReadSNInputBox\ReadSNInputBox\obj\Debug\ReadSNInputBox.csproj.CoreCompileInputs.cache
+C:\Users\jomannin\source\repos\ReadSNInputBox\ReadSNInputBox\obj\Debug\ReadSNInputBox.exe
+C:\Users\jomannin\source\repos\ReadSNInputBox\ReadSNInputBox\obj\Debug\ReadSNInputBox.pdb

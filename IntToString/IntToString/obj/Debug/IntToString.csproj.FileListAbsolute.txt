@@ -1,0 +1,7 @@
+C:\Users\Joni\source\repos\IntToString\IntToString\bin\Debug\IntToString.exe.config
+C:\Users\Joni\source\repos\IntToString\IntToString\bin\Debug\IntToString.exe
+C:\Users\Joni\source\repos\IntToString\IntToString\bin\Debug\IntToString.pdb
+C:\Users\Joni\source\repos\IntToString\IntToString\obj\Debug\IntToString.csprojAssemblyReference.cache
+C:\Users\Joni\source\repos\IntToString\IntToString\obj\Debug\IntToString.csproj.CoreCompileInputs.cache
+C:\Users\Joni\source\repos\IntToString\IntToString\obj\Debug\IntToString.exe
+C:\Users\Joni\source\repos\IntToString\IntToString\obj\Debug\IntToString.pdb

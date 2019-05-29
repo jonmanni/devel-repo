@@ -1,0 +1,11 @@
+C:\Users\Joni\source\repos\StringToBytes\StringToBytes\bin\Debug\netcoreapp2.0\StringToBytes.deps.json
+C:\Users\Joni\source\repos\StringToBytes\StringToBytes\bin\Debug\netcoreapp2.0\StringToBytes.runtimeconfig.json
+C:\Users\Joni\source\repos\StringToBytes\StringToBytes\bin\Debug\netcoreapp2.0\StringToBytes.runtimeconfig.dev.json
+C:\Users\Joni\source\repos\StringToBytes\StringToBytes\bin\Debug\netcoreapp2.0\StringToBytes.dll
+C:\Users\Joni\source\repos\StringToBytes\StringToBytes\bin\Debug\netcoreapp2.0\StringToBytes.pdb
+C:\Users\Joni\source\repos\StringToBytes\StringToBytes\obj\Debug\netcoreapp2.0\StringToBytes.csprojResolveAssemblyReference.cache
+C:\Users\Joni\source\repos\StringToBytes\StringToBytes\obj\Debug\netcoreapp2.0\StringToBytes.csproj.CoreCompileInputs.cache
+C:\Users\Joni\source\repos\StringToBytes\StringToBytes\obj\Debug\netcoreapp2.0\StringToBytes.AssemblyInfoInputs.cache
+C:\Users\Joni\source\repos\StringToBytes\StringToBytes\obj\Debug\netcoreapp2.0\StringToBytes.AssemblyInfo.cs
+C:\Users\Joni\source\repos\StringToBytes\StringToBytes\obj\Debug\netcoreapp2.0\StringToBytes.dll
+C:\Users\Joni\source\repos\StringToBytes\StringToBytes\obj\Debug\netcoreapp2.0\StringToBytes.pdb

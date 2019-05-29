@@ -1,0 +1,7 @@
+C:\Users\Joni\source\repos\Converting\Converting\bin\Debug\Converting.exe.config
+C:\Users\Joni\source\repos\Converting\Converting\bin\Debug\Converting.exe
+C:\Users\Joni\source\repos\Converting\Converting\bin\Debug\Converting.pdb
+C:\Users\Joni\source\repos\Converting\Converting\obj\Debug\Converting.csprojAssemblyReference.cache
+C:\Users\Joni\source\repos\Converting\Converting\obj\Debug\Converting.csproj.CoreCompileInputs.cache
+C:\Users\Joni\source\repos\Converting\Converting\obj\Debug\Converting.exe
+C:\Users\Joni\source\repos\Converting\Converting\obj\Debug\Converting.pdb

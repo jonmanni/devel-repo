@@ -1,0 +1,7 @@
+C:\Users\Joni\source\repos\MerkkijononPilkkominen\MerkkijononPilkkominen\bin\Debug\MerkkijononPilkkominen.exe.config
+C:\Users\Joni\source\repos\MerkkijononPilkkominen\MerkkijononPilkkominen\bin\Debug\MerkkijononPilkkominen.exe
+C:\Users\Joni\source\repos\MerkkijononPilkkominen\MerkkijononPilkkominen\bin\Debug\MerkkijononPilkkominen.pdb
+C:\Users\Joni\source\repos\MerkkijononPilkkominen\MerkkijononPilkkominen\obj\Debug\MerkkijononPilkkominen.csprojAssemblyReference.cache
+C:\Users\Joni\source\repos\MerkkijononPilkkominen\MerkkijononPilkkominen\obj\Debug\MerkkijononPilkkominen.csproj.CoreCompileInputs.cache
+C:\Users\Joni\source\repos\MerkkijononPilkkominen\MerkkijononPilkkominen\obj\Debug\MerkkijononPilkkominen.exe
+C:\Users\Joni\source\repos\MerkkijononPilkkominen\MerkkijononPilkkominen\obj\Debug\MerkkijononPilkkominen.pdb

@@ -1,0 +1,7 @@
+C:\Users\Joni\source\repos\ReTryLoop\ReTryLoop\bin\Debug\ReTryLoop.exe.config
+C:\Users\Joni\source\repos\ReTryLoop\ReTryLoop\bin\Debug\ReTryLoop.exe
+C:\Users\Joni\source\repos\ReTryLoop\ReTryLoop\bin\Debug\ReTryLoop.pdb
+C:\Users\Joni\source\repos\ReTryLoop\ReTryLoop\obj\Debug\ReTryLoop.csprojAssemblyReference.cache
+C:\Users\Joni\source\repos\ReTryLoop\ReTryLoop\obj\Debug\ReTryLoop.csproj.CoreCompileInputs.cache
+C:\Users\Joni\source\repos\ReTryLoop\ReTryLoop\obj\Debug\ReTryLoop.exe
+C:\Users\Joni\source\repos\ReTryLoop\ReTryLoop\obj\Debug\ReTryLoop.pdb

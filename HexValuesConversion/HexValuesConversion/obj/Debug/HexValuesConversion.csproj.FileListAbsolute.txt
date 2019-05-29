@@ -1,0 +1,7 @@
+C:\Users\Joni\source\repos\HexValuesConversion\HexValuesConversion\bin\Debug\HexValuesConversion.exe.config
+C:\Users\Joni\source\repos\HexValuesConversion\HexValuesConversion\bin\Debug\HexValuesConversion.exe
+C:\Users\Joni\source\repos\HexValuesConversion\HexValuesConversion\bin\Debug\HexValuesConversion.pdb
+C:\Users\Joni\source\repos\HexValuesConversion\HexValuesConversion\obj\Debug\HexValuesConversion.csproj.CoreCompileInputs.cache
+C:\Users\Joni\source\repos\HexValuesConversion\HexValuesConversion\obj\Debug\HexValuesConversion.exe
+C:\Users\Joni\source\repos\HexValuesConversion\HexValuesConversion\obj\Debug\HexValuesConversion.pdb
+C:\Users\Joni\source\repos\HexValuesConversion\HexValuesConversion\obj\Debug\HexValuesConversion.csprojAssemblyReference.cache

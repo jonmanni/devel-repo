@@ -1,0 +1,7 @@
+C:\Users\Joni\source\repos\Loop\Loop\bin\Debug\Loop.exe.config
+C:\Users\Joni\source\repos\Loop\Loop\bin\Debug\Loop.exe
+C:\Users\Joni\source\repos\Loop\Loop\bin\Debug\Loop.pdb
+C:\Users\Joni\source\repos\Loop\Loop\obj\Debug\Loop.csprojAssemblyReference.cache
+C:\Users\Joni\source\repos\Loop\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+C:\Users\Joni\source\repos\Loop\Loop\obj\Debug\Loop.exe
+C:\Users\Joni\source\repos\Loop\Loop\obj\Debug\Loop.pdb

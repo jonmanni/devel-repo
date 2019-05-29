@@ -1,0 +1,11 @@
+C:\Users\Joni\source\repos\EkaVaan\EkaVaan\bin\Debug\netcoreapp2.0\EkaVaan.deps.json
+C:\Users\Joni\source\repos\EkaVaan\EkaVaan\bin\Debug\netcoreapp2.0\EkaVaan.runtimeconfig.json
+C:\Users\Joni\source\repos\EkaVaan\EkaVaan\bin\Debug\netcoreapp2.0\EkaVaan.runtimeconfig.dev.json
+C:\Users\Joni\source\repos\EkaVaan\EkaVaan\bin\Debug\netcoreapp2.0\EkaVaan.dll
+C:\Users\Joni\source\repos\EkaVaan\EkaVaan\bin\Debug\netcoreapp2.0\EkaVaan.pdb
+C:\Users\Joni\source\repos\EkaVaan\EkaVaan\obj\Debug\netcoreapp2.0\EkaVaan.csprojResolveAssemblyReference.cache
+C:\Users\Joni\source\repos\EkaVaan\EkaVaan\obj\Debug\netcoreapp2.0\EkaVaan.csproj.CoreCompileInputs.cache
+C:\Users\Joni\source\repos\EkaVaan\EkaVaan\obj\Debug\netcoreapp2.0\EkaVaan.AssemblyInfoInputs.cache
+C:\Users\Joni\source\repos\EkaVaan\EkaVaan\obj\Debug\netcoreapp2.0\EkaVaan.AssemblyInfo.cs
+C:\Users\Joni\source\repos\EkaVaan\EkaVaan\obj\Debug\netcoreapp2.0\EkaVaan.dll
+C:\Users\Joni\source\repos\EkaVaan\EkaVaan\obj\Debug\netcoreapp2.0\EkaVaan.pdb
